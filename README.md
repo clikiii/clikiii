@@ -21,6 +21,7 @@ I have moved most of the open-sourced hobby projects/course projects to this acc
 
 I interned as a Backend Developer previously. You may find other work projects [here](https://github.com/YianW).
 
+Email: naiywang16@gmail.com
 
 #### Actually I am a robot 🤖️
 ```Java
