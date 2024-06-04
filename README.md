@@ -43,7 +43,7 @@ public class Robot {
         this.mainLanguages = new ArrayList<String>(
             Arrays.asList("Python", "Java", "JavaScript", "Golang", "C++")
         );
-        this.others = "There is still a long way to go, but I will keep moving. By the way, I like trees.";
+        this.others = "I like trees.";
     }
 
     public static void main(String[] args) {
