@@ -15,41 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Currently a final year CS student at [City University of Hong Kong](https://www.cityu.edu.hk/).
+I am currently a first-year Computer Science Master's student at [UC San Diego](https://ucsd.edu/), focusing on backend/full-stack development. I completed my BS in Computer Science with first-class honors from [City University of Hong Kong](https://www.cityu.edu.hk/) in 2024.
 
-I have moved most of the open-sourced hobby projects/course projects to this account. 
+I interned as a backend developer at V Systems ([work account](https://github.com/YianW) here) in Hong Kong, developing e-commerce platforms and blockchain SDKs. Prior to this role, I served as a full-stack intern at Shanghai Huayi, building data analysis applications to support the company’s business operations.
 
-I interned as a Backend Developer previously. You may find other work projects [here](https://github.com/YianW).
+I am now actively seeking a software engineering internship in the United States.
+
+I love trees.
 
 Email: naiywang16@gmail.com
-
-#### Actually I am a robot 🤖️
-```Java
-import java.util.ArrayList;
-import java.util.Arrays;
-
-public class Robot {
-    private String firstName;
-    private String lastName;
-    private String major;
-    private String university;
-    private ArrayList<String> mainLanguages;
-    private String others;
-    
-    public Robot() {
-        this.firstName = "Yian";
-        this.lastName = "Wang";
-        this.major = "Computer Science";
-        this.university = "CityU HK";
-        this.mainLanguages = new ArrayList<String>(
-            Arrays.asList("Python", "Java", "JavaScript", "Golang", "C++")
-        );
-        this.others = "I like trees.";
-    }
-
-    public static void main(String[] args) {
-        Robot yianWang = new Robot();
-        System.out.printf("yianWang says: \"%s\"", yianWang.others);
-    }
-}
-```
